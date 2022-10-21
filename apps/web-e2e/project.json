@@ -9,6 +9,7 @@
       "options": {
         "cypressConfig": "apps/web-e2e/cypress.config.ts",
         "devServerTarget": "web:serve:development",
+        "serve": false,
         "testingType": "e2e"
       },
       "configurations": {
